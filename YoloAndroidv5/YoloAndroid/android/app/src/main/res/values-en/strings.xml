@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tfe_od_app_name">TFL Detect</string>
+    <string name="tfe_od_camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="action_search">Search</string>
+    <string name="live_detection">Live Detection</string>
+    <string name="galarrey_detection">Gallery Detection</string>
+    <string name="frame">Frame</string>
+    <string name="crop">Crop</string>
+    <string name="inference_time">Inference Time</string>
+    <string name="threads">Threads</string>
+    <string name="listfood">Southwest Food</string>
+    <string name="detailfood">Detail Food</string>
+    <string name="infofood">List Food</string>
+    <string name="uploadfood">Upload Image</string>
+    <string name="english">English</string>
+    <string name="vietnam">Vietnamese</string>
+    <string name="namefood">Name Of Food:</string>
+    <string name="tinh">Province:</string>
+    <string name="introduction">Introduction:</string>
+    <string name="ingredient">Ingredient:</string>
+    <string name="recipe">Cooking Recipe:</string>
+</resources>

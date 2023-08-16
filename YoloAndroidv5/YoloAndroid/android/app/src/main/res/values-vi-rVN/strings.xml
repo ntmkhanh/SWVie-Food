@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tfe_od_app_name">TFL Detect</string>
+    <string name="tfe_od_camera_error">Thiết bị không hỗ trợ Camera2 API</string>
+    <string name="action_search">Tìm Kiếm</string>
+    <string name="live_detection">Nhận Dạng Trực Tiếp</string>
+    <string name="galarrey_detection">Nhận Dạng Qua Ảnh</string>
+    <string name="frame">Khung</string>
+    <string name="crop">Cắt</string>
+    <string name="inference_time">Thời gian suy luận</string>
+    <string name="threads">Luồng</string>
+    <string name="listfood">Món Ăn Tây Nam Bộ</string>
+    <string name="detailfood">Chi Tiết Món Ăn</string>
+    <string name="infofood">Thông Tin Món Ăn</string>
+    <string name="uploadfood">Tải Ảnh</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="vietnam">Tiếng Việt</string>
+    <string name="namefood">Tên Món Ăn:</string>
+    <string name="tinh">Tên Tỉnh:</string>
+    <string name="introduction">Giới Thiệu:</string>
+    <string name="ingredient">Nguyên Liệu:</string>
+    <string name="recipe">Công Thức Chế Biến:</string>
+</resources>
